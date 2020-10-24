@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "OSCE - CTP Course Preparation - HeapSpray + SEH + EggHunter"
 date:   2017-07-06 18:42:00 +0200
 categories: security ctp osce exploitation
 ---
 
 ## Introduction
-
 Hello humans!
 I have been busy working preparing myself for the CTP Course and wanted to share my experience.
 

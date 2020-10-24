@@ -1,12 +1,8 @@
 ---
-layout: post
 title:  "Bypassing Web-Application Firewalls by abusing SSL/TLS"
 date:   2018-07-02
 categories: waf bypass ssl
 ---
-
-## Introduction
-
 
 During the latest years Web Security has become a very important topic in the IT Security field.
 The advantages the web offers resulted in very critical services being developed as web applications. The business requirements for their web applications security has also changed a lot and apart from their good developing standards they add another layer of security.
